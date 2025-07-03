@@ -1,2 +1,2 @@
-# allgames.github.io
+# bdntuan96.github.io
 All games: new, hot, trending...
